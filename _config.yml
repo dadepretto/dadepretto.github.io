@@ -1,8 +1,8 @@
 # General
-title: Davide's Blog
+title: Clean SQL
 description: >-
-  Just a blog about software and database development.
-  I like software architecture, and write mainly in T-SQL, TypeScript and C#.
+  Yet another blog on data engineering and software development, but better.
+  I will post about software architecture, SQL Server, TypeScript, and C#.
 
 # About me
 author: Davide De Pretto
