@@ -13,6 +13,14 @@ github_username:  dadepretto
 linkedin_username: dadepretto
 instagram_username: dadepretto
 
+# Defaults
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      author: Davide De Pretto
+
 # Baking cookies ;)
 google_analytics: UA-197737305-1
 
