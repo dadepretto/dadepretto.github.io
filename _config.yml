@@ -1,17 +1,17 @@
 # General
-title: Clean SQL
+title: Batteries Included
 description: >-
   Yet another blog on data engineering and software development, but better.
-  I will post about software architecture, SQL Server, TypeScript, and C#.
+  I will post about software architecture on SQL Server, TypeScript, and C#.
 
 # About me
 author: Davide De Pretto
 email: dadepretto@icloud.com
 url: https://dadepretto.com
-twitter_username: dadepretto
 github_username:  dadepretto
-linkedin_username: dadepretto
 instagram_username: dadepretto
+linkedin_username: dadepretto
+twitter_username: dadepretto
 
 # Defaults
 defaults:
