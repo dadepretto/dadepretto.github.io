@@ -9,7 +9,7 @@ If you're using SQL Server, the chances are that you have all your objects insid
 
 ## TL;DR
 
-Putting all your stuff inside `dbo` is most probably not your best option. Instead, go to [https://github.com/dadepretto/demo-sample-database] and take a look at my way of structuring databases using schemas to avoid this anti-pattern in your next project.
+Putting all your stuff inside `dbo` is most probably not your best option. Instead, go to [https://github.com/dadepretto/demo-sample-database](https://github.com/dadepretto/demo-sample-database) and take a look at my way of structuring databases using schemas to avoid this anti-pattern in your next project.
 
 ## Is `dbo` evil?
 
