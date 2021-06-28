@@ -2,7 +2,8 @@
 layout: post
 title: "Why your next database should use schemas"
 date: 2021-06-28 22:54 +0200
-categories: SQL, Database, Design, Schemas
+category: design
+tags: SQL Database Design Schemas
 ---
 
 If you're using SQL Server, the chances are that you have all your objects inside the `dbo` schema. In this post, we will discover why you should leverage the expressive power of schemas in your next database project, plus I'll show you my method to create a meaningful categorization with them.

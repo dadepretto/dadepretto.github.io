@@ -2,7 +2,8 @@
 layout: post
 title: "Batteries included (Blog manifesto)"
 date: 2021-06-03 14:02 +0200
-categories: general
+category: general
+tags: General
 ---
 
 It has been a while since I started thinking about opening a blog. That included many failed attempts that never saw the light for several reasons, including myself being lazy. But this time, here we are.
