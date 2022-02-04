@@ -3,12 +3,12 @@ name: Tweet
 on:
   push:
     branches: [ main ]
-    paths:
-    - '_posts/**'
+    # paths:
+    # - '_posts/**'
   pull_request:
     branches: [ main ]
-    paths:
-    - '_posts/**'
+    # paths:
+    # - '_posts/**'
 
 jobs:
   tweet:
