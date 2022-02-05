@@ -11,12 +11,15 @@
 			"**/.hg": true,
 			"**/CVS": true,
 			"**/.DS_Store": true,
+			".gitignore": true,
+			".jekyll-cache": true,
+			".sass-cache": true,
 			"_site/": true,
 			"CNAME": true,
+			"Gemfile": true,
 			"Gemfile.lock": true,
 			"404.html": true,
-			".gitignore": true,
-			"dadepretto.github.io.code-workspace": true
+			"favicon.ico": true,
 		}
 	},
 }
