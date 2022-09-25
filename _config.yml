@@ -20,9 +20,6 @@ defaults:
     values:
       author: Davide De Pretto
 
-# Baking cookies ;)
-google_analytics: UA-197737305-1
-
 # Site settings
 theme: minima
 show_excerpts: true
