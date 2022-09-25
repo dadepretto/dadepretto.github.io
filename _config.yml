@@ -20,6 +20,12 @@ defaults:
     values:
       author: Davide De Pretto
 
+# Baking cookies ;)
+analytics:
+  provider : "google-gtag"
+  google:
+    measurement_id : "G-YHSRE3V06H"
+
 # Site settings
 theme: minima
 show_excerpts: true
